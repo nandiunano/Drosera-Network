@@ -70,6 +70,9 @@ source /root/.bashrc
 ```
 foundryup
 ```
+```
+source /root/.bashrc
+```
 
 **Bun:**
 ```
