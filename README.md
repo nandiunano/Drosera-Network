@@ -5,6 +5,9 @@ In this Guide, we contribute to Drosera testnet by:
 3. Deploying a Trap on testnet
 4. Connecting an operator to the Trap
 
+faucet
+https://cloud.google.com/application/web3/faucet/ethereum/holesky
+
 # Recommended System Requirements
 * 2 CPU Cores
 * 4 GB RAM
