@@ -102,6 +102,10 @@ forge init -t drosera-network/trap-foundry-template
 curl -fsSL https://bun.sh/install | bash
 bun install
 ```
+```
+source /root/.bashrc
+```
+
 ```bash
 forge build
 ```
