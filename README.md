@@ -98,12 +98,12 @@ git config --global user.name "Github_Username"
 forge init -t drosera-network/trap-foundry-template
 ```
 **Compile Trap**:
+```
+source /root/.bashrc
+```
 ```bash
 curl -fsSL https://bun.sh/install | bash
 bun install
-```
-```
-source /root/.bashrc
 ```
 
 ```bash
